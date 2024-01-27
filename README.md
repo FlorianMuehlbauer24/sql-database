@@ -23,7 +23,8 @@ Files added to this repositry:
 - Python Code for data cleaning/wrangling
 - Both original and cleaned data sets
 - Screenshots from Tableau
-- Link to presentation
+- Link to presentation:
+https://docs.google.com/presentation/d/1nXG2WMybaUl2Rfobg17fTi5GfcRS1tvGv_nY48eWVEU/edit#slide=id.g2b330063bff_0_5
 
 Note:
 Due to an unsolved Bug/Error in MySQL that occured during the  upload of the SpotifyTop10k dataset both dataset could not be merged in MYSQL. 
